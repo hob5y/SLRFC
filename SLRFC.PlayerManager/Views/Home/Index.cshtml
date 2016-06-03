@@ -1,0 +1,95 @@
+﻿@model SLRFC.PlayerManager.ViewModels.PlayersViewModel
+
+@{
+    ViewBag.Title = "Player Manager";
+}
+
+<br />
+
+@*<h2>Week beginning: @string.Format("{0} {1}", Model.WeekBeginningDate.DayOfWeek, Model.WeekBeginningDate.ToLongDateString())</h2>*@
+
+<div class="table-responsive">
+    <table class="table table-condensed table-bordered table-striped table-hover">
+        <thead>
+            <tr>
+                <th>Surname</th>
+                <th>First Name</th>
+                <th>Position</th>
+                <th>Contact Telephone</th>
+                <th>Tuesday</th>
+                <th>Thursday</th>
+                <th>Saturday</th>
+            </tr>
+        </thead>
+        @*@foreach (var item in Model.Players)
+        {
+            <tr>
+                <td>@item.Surname</td>
+                <td>@item.FirstName</td>
+                <td>@item.Position</td>
+                <td>@item.ContactTelephone</td>
+                <td>
+                    
+                    @{
+                        Availability tuesdayTraining = null;
+
+                        if (item.Availabilities != null)
+                        {
+                            tuesdayTraining = item.Availabilities.FirstOrDefault(
+                            x => (x.Event.StartDate == Model.WeekBeginningDate.AddDays(1)) && (x.Event.EventType.Name == "Training"));  
+                        }
+                    }
+                    @if (tuesdayTraining != null)
+                    {
+                        @tuesdayTraining.IsAvailable
+                    }
+                    else
+                    {
+                        @Html.DisplayText( "NR")
+                    }
+                </td>
+                <td>
+                    
+                    @{
+                        Availability thursdayTraining = null;
+
+                        if (item.Availabilities != null)
+                        {
+                            thursdayTraining = item.Availabilities.FirstOrDefault(
+                            x => (x.Event.StartDate == Model.WeekBeginningDate.AddDays(3)) && (x.Event.EventType.Name == "Training"));
+                        }
+                    }
+                    @if (thursdayTraining != null)
+                    {
+                        @thursdayTraining.IsAvailable
+                    }
+                    else
+                    {
+                        @Html.DisplayText( "NR")
+                    }
+                </td>
+                <td>
+                    
+                    @{
+                        Availability saturdayMatch = null;
+
+                        if (item.Availabilities != null)
+                        {
+                            saturdayMatch = item.Availabilities.FirstOrDefault(
+                            x => (x.Event.StartDate == Model.WeekBeginningDate.AddDays(5)) && (x.Event.EventType.Name == "Match"));
+                        }
+                    }
+                    @if (saturdayMatch != null)
+                    {
+                        @saturdayMatch.IsAvailable
+                    }
+                    else
+                    {
+                        @Html.DisplayText( "NR")
+                    }
+                </td>
+            </tr>
+        }*@
+    </table>    
+</div>
+

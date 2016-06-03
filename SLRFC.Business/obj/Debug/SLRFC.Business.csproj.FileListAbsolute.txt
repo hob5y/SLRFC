@@ -1,0 +1,14 @@
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\SLRFC.Business.dll.config
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\SLRFC.Business.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\SLRFC.Business.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\AutoMapper.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\EntityFramework.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\SLRFC.Model.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\SLRFC.Model.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\AutoMapper.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\EntityFramework.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\obj\Debug\SLRFC.Business.csprojResolveAssemblyReference.cache
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\obj\Debug\SLRFC.Business.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Business\obj\Debug\SLRFC.Business.pdb

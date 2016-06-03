@@ -1,0 +1,12 @@
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\SLRFC.Model.dll.config
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\SLRFC.Model.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\SLRFC.Model.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\EntityFramework.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\EntityFramework.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\obj\Debug\SLRFC.Model.Migrations.RemovedContactDetailsLink.resources
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\obj\Debug\SLRFC.Model.csproj.GenerateResource.Cache
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\obj\Debug\SLRFC.Model.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\obj\Debug\SLRFC.Model.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Model\obj\Debug\SLRFC.Model.csprojResolveAssemblyReference.cache

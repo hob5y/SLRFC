@@ -1,0 +1,6 @@
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\bin\Debug\SLRFC.TestHarness.exe.config
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\bin\Debug\SLRFC.TestHarness.exe
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\bin\Debug\SLRFC.TestHarness.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\obj\Debug\SLRFC.TestHarness.csprojResolveAssemblyReference.cache
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\obj\Debug\SLRFC.TestHarness.exe
+C:\ws_training\SLRFC.PlayerManager\SLRFC.TestHarness\obj\Debug\SLRFC.TestHarness.pdb

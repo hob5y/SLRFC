@@ -1,0 +1,9 @@
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\SLRFC.Data.dll.config
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\SLRFC.Data.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\SLRFC.Data.pdb
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\EntityFramework.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\EntityFramework.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\obj\Debug\SLRFC.Data.dll
+C:\ws_training\SLRFC.PlayerManager\SLRFC.Data\obj\Debug\SLRFC.Data.pdb
